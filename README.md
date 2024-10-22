@@ -1,23 +1,3 @@
-
-
-A.D. Patel Institute of Technology
-
-
-Branch-
-Artificial Intelligence(AI) & Data Science(DS)
-
-Subject : Java Mini project
-Topic- Online Quiz System - README
-
-
-
-
-
-
-
-Name :-  Harsh Sakariya
-Enrolment No. :- 12202120601019
-Batch :- B12 
 Online Quiz System – README
 
 Project Description
